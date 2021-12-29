@@ -1,0 +1,11 @@
+[filesystem "Oracle Corporation|1.8.0_261|581013800"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Oracle Corporation|1.8.0_261|1453477050"]
+	timestampResolution = 3001 microseconds
+	minRacyThreshold = 0 nanoseconds
+[user]
+	name = Tanay
+	email = tanay_gupta@persistent.com
+[core]
+	editor = notepad
