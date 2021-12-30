@@ -4,3 +4,4 @@ change 1 -done by team mate for wI3
 Hello World again
 change - for bug 2
 change - for stash test
+change - WI6 on local master to test normal push operation
